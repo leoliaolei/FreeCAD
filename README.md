@@ -11,6 +11,7 @@
 
 
 [![Release](https://img.shields.io/github/release/freecad/freecad.svg)](https://github.com/freecad/freecad/releases/latest) [![Master][freecad-master-status]][gitlab-branch-master] [![Crowdin](https://d322cqt584bo4o.cloudfront.net/freecad/localized.svg)](https://crowdin.com/project/freecad) [![Gitter](https://img.shields.io/gitter/room/freecad/freecad.svg)](https://gitter.im/freecad/freecad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Liberapay](https://img.shields.io/liberapay/receives/FreeCAD.svg?logo=liberapay)](https://liberapay.com/FreeCAD)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleoliaolei%2FFreeCAD.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleoliaolei%2FFreeCAD?ref=badge_shield)
 
 <img src="https://user-images.githubusercontent.com/1828501/174066870-1692005b-f8d7-43fb-a289-6d2f07f73d7f.png" width="800"/>
 
@@ -135,3 +136,7 @@ learning to use FreeCAD.
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="91px">
   </a> and <a href="https://www.kipro-pcb.com/">KiCad Services Corp.</a>
 </p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleoliaolei%2FFreeCAD.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleoliaolei%2FFreeCAD?ref=badge_large)
